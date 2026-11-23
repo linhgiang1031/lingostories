@@ -1,5 +1,5 @@
 {
-  "name": "LingoStories – Học 4 ngôn ngữ",
+  "name": "LingoStories – Learn 4 Languages",
   "short_name": "LingoStories",
   "start_url": "./index.html",
   "scope": "./",
@@ -17,5 +17,6 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ]
+  ],
+  "lang": "en"
 }
